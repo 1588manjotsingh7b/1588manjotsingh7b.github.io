@@ -4,7 +4,7 @@ Welcome to my personal portfolio website!
 This site showcases my projects and skills in **Robotics, AI and Web Development**.
 
 ## 🔗 Live Website
-👉 https://YOUR_USERNAME.github.io
+👉 https://1588manjotsingh7b.github.io
 
 ## 📌 About Me
 I am a tech enthusiast who loves robotics, coding and building AI-based projects.  
@@ -24,5 +24,5 @@ I enjoy learning new technologies and working on practical projects.
 *(Projects will keep updating)*
 
 ## 📬 Contact
-📧 Email: YOUR_EMAIL  
-🐙 GitHub: https://github.com/YOUR_USERNAME
+📧 Email: 1588manjotsingh7b@gmail.com
+🐙 GitHub: https://github.com/1588manjotsingh7b
