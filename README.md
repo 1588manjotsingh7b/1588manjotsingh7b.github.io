@@ -10,6 +10,11 @@ This site showcases my projects and skills in **Robotics, AI and Web Development
 I am a tech enthusiast who loves robotics, coding and building AI-based projects.  
 I enjoy learning new technologies and working on practical projects.
 
+## My Certification 
+- I got Certified by India's best Tutors From BE10X
+
+  ![image alt](https://github.com/1588manjotsingh7b/1588manjotsingh7b.github.io/blob/73fda84bc5b1162ba44ef2c8c827f11f7539c4e4/Certificate.pdf)
+  
 ## 🚀 Skills
 - Robotics
 - Arduino & NodeMCU
@@ -18,9 +23,8 @@ I enjoy learning new technologies and working on practical projects.
 - IoT Projects
 
 ## 🧩 Projects Included
-- Home Automation System using Alexa
-- Color-Based Parcel Detection using CV
-- Line Following Robot
+- Olympic Data Anyaliser
+- Personalised Movies Recommandator System
 *(Projects will keep updating)*
 
 ## 📬 Contact
