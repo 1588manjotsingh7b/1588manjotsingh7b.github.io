@@ -12,8 +12,7 @@ I enjoy learning new technologies and working on practical projects.
 
 ## My Certification 
 - I got Certified by India's best Tutors From BE10X
-
-  ![image alt](https://github.com/1588manjotsingh7b/1588manjotsingh7b.github.io/blob/73fda84bc5b1162ba44ef2c8c827f11f7539c4e4/Certificate.pdf)
+  ![image alt](Screenshot_14-12-2025_152958_.jpeg)
   
 ## 🚀 Skills
 - Robotics
